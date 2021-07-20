@@ -1,0 +1,12 @@
+.SongListItem {
+  padding: 8px;
+  cursor: pointer;
+  letter-spacing: 3px;
+}
+
+.SongListItem.selected {
+  background-color: #1750ac;
+  color: white;
+  cursor: pointer;
+  letter-spacing: 0px;
+}

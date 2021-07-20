@@ -1,0 +1,28 @@
+.SongPlayer {
+  width: 500px;
+  margin: 0 auto;
+  padding: 10px 10px 20px;
+  background-color: #1750ac;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.SongPlayer img {
+  margin: 10px auto 20px;
+  width: 250px;
+  height: 250px;
+}
+
+.SongPlayer button {
+  padding: 6px 12px;
+  margin: 0 20px;
+  border-style: 1px solid white;
+  font-size: 14px;
+  color: white;
+  background-color: #003396;
+  cursor: pointer;
+  letter-spacing: 4px;
+  text-transform: uppercase;
+}

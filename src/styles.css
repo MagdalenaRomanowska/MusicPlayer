@@ -1,0 +1,22 @@
+body {
+  background: linear-gradient(
+    -45deg,
+    #86cefa,
+    #5494da,
+    #1750ac,
+    #5494da,
+    #86cefa
+  );
+  color: white;
+  margin: 0;
+  font-family: sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+h1 {
+  margin: 10px;
+}

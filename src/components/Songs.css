@@ -1,0 +1,15 @@
+.Songs {
+  width: 500px;
+  padding: 10px;
+  margin-top: 20px;
+  background-color: #86cefa;
+  color: #003396;
+}
+
+.Songs ul {
+  text-align: left;
+  padding: 0;
+  list-style-type: none;
+  overflow: scroll;
+  max-height: 100%;
+}
